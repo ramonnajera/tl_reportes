@@ -1,0 +1,15 @@
+# Entorno virtual
+env/
+.env
+
+#scripts
+scripts/
+
+# Bytecode compilado
+__pycache__/
+*.pyc
+
+# Otros archivos y carpetas a ignorar
+.DS_Store
+*.swp
+*~
